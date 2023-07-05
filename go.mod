@@ -1,4 +1,4 @@
-module github.com/wlynxg/anet
+module github.com/functionland/anet
 
 go 1.20
 
