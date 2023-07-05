@@ -1,7 +1,7 @@
 package mobile
 
 import (
-	"anet"
+	"github.com/functionland/anet"
 	"log"
 	"net"
 )
