@@ -1,9 +1,12 @@
+//go:build android
+
 package mobile
 
 import (
-	"github.com/functionland/anet"
 	"log"
 	"net"
+
+	"github.com/functionland/anet"
 )
 
 func NetInterface() {
